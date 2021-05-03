@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "target": "ES5"
+  },
+  "include": [
+    "./src/*.tsx",
+    "./src/*.ts"
+  ]
+}
