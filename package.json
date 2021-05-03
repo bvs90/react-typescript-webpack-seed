@@ -4,7 +4,7 @@
   "description": "A basic starter project using React, TypeScript and Webpack",
   "main": "index.ts",
   "scripts": {
-    "start": "webpack serve --open",
+    "start": "webpack serve",
     "test": "yarn test"
   },
   "repository": {
