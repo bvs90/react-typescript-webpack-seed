@@ -7,8 +7,5 @@
     "sourceMap": true,
     "target": "ES5"
   },
-  "include": [
-    "./src/*.tsx",
-    "./src/*.ts"
-  ]
+  "include": ["./src/*.tsx", "./src/*.ts"]
 }
